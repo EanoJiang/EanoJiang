@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/EanoJiang">
-    <img src="https://github.com/user-attachments/assets/161beb95-b1c7-48ff-8857-6095ed03c64a" alt="EanoJiang" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
 <p align="center">
