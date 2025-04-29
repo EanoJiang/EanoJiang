@@ -23,7 +23,8 @@ EE CS双修
 </table>
 
 ### ⚡ 技术栈 | Tech Stack
-
+* ![csharp]([https://img.shields.io/badge/-C#-8985F0.svg](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=csharp
+))
 * ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
 
 * ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat) 
