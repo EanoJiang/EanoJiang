@@ -2,7 +2,7 @@
 [简体中文](README.md) | [English](README_en.md)
 
 
-方向: **Unity**，**嵌入式**，**游戏客户端** https://img.shields.io/badge/logo=gamescience&logoColor=white&style=flat
+方向: **Unity**，**嵌入式**，**游戏客户端** ![游科](https://img.shields.io/badge/-gray?logo=gamescience&logoColor=white&style=flat)
 
 博客园:[https://www.cnblogs.com/eanojiang](https://www.cnblogs.com/eanojiang)
 
