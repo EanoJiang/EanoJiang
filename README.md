@@ -31,4 +31,4 @@ EE CS双修
 
 * ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-AI_Edge_Computing-76B900?logo=nvidia&logoColor=white&style=flat) ![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?logo=yolo&logoColor=black&style=flat)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=lzt404&color=green">
+<img align="right" src="https://komarev.com/ghpvc/?username=EanoJiang&color=red">
