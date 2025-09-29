@@ -25,6 +25,8 @@ EE CS双修
 ### ⚡ 技术栈 | Tech Stack
 * ![csharp](https://img.shields.io/badge/-CSharp-gray?logo=c&logoColor=white&style=flat)  ![Unity](https://img.shields.io/badge/-Unity-gray?logo=unity&logoColor=white&style=flat)
 
+* ![Blender](https://img.shields.io/badge/-Blender-gray?logo=unity&logoColor=white&style=flat)
+
 * ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
 
 * ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=flat) 
