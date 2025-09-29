@@ -23,7 +23,7 @@ EE CS双修
 </table>
 
 ### ⚡ 技术栈 | Tech Stack
-* ![csharp](https://img.shields.io/badge/-CSharp-gray?logo=c&logoColor=white&style=flat)  ![cpp](https://img.shields.io/badge/-c++-gray?logo=c++&logoColor=white&style=flat)  ![Unity](https://img.shields.io/badge/-Unity-gray?logo=unity&logoColor=white&style=flat)
+* ![csharp](https://img.shields.io/badge/-CSharp-gray?logo=c&logoColor=white&style=flat)  ![C++](https://img.shields.io/badge/-cplusplus-gray?logo=cplusplus&logoColor=white&style=flat)  ![Unity](https://img.shields.io/badge/-Unity-gray?logo=unity&logoColor=white&style=flat)
 
 * ![Blender](https://img.shields.io/badge/-Blender-gray?logo=Blender&logoColor=white&style=flat)
 
