@@ -2,7 +2,7 @@
 [简体中文](README.md) | [English](README_en.md)
 
 
-方向: **动作TA**，**嵌入式**，**Unity**，**游戏客户端** derive from：![游科](https://img.shields.io/badge/-gray?logo=gamescience&logoColor=white&style=flat)
+方向: **电子嵌入式** **动作TA** **Unity** **游戏客户端3c方向** derive from：![游科](https://img.shields.io/badge/-gray?logo=gamescience&logoColor=white&style=flat)
 
 博客园:[https://www.cnblogs.com/eanojiang](https://www.cnblogs.com/eanojiang)
 
