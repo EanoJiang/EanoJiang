@@ -12,7 +12,7 @@
 EE CS双修
 
     
-[![EanoJiang's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=EanoJiang&show_icons=true&theme=github_white&hide_title=true)](https://github.com/EanoJiang?tab=repositories)  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anibullet&layout=compact&theme=github_white&hide_title=true)](https://github.com/EanoJiang?tab=repositories)  
+[![EanoJiang's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=EanoJiang&show_icons=true&theme=github_white&hide_title=true)](https://github.com/EanoJiang?tab=repositories)  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eanojiang&layout=compact&theme=github_white&hide_title=true)](https://github.com/EanoJiang?tab=repositories)  
 
 
 ### ⚡ 技术栈 | Tech Stack
